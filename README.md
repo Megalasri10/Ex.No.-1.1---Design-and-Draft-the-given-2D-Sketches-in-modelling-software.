@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-<img width="1193" height="845" alt="image" src="https://github.com/user-attachments/assets/8a665498-95b0-4250-95c4-2c404900ebd6" />
+<img width="1193" height="841" alt="Screenshot 2026-03-31 140127" src="https://github.com/user-attachments/assets/1554a139-ac8c-4d9b-bb76-0b162659ef00" />
 
 
 ## RESULT
